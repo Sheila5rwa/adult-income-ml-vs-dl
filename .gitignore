@@ -1,0 +1,10 @@
+# Raw data must NOT be committed (it lives in the Google Drive folder)
+data/
+*.zip
+adult.data
+adult.test
+# Large model files live in Google Drive
+outputs/models/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
