@@ -1,0 +1,13 @@
+value,n,actual_>50K_rate,predicted_>50K_rate,recall,false_pos_rate,accuracy,group
+below_secondary,2155,0.057,0.017,0.254,0.003,0.955,edu_level
+secondary,5283,0.157,0.097,0.423,0.036,0.879,edu_level
+some_tertiary,4800,0.205,0.211,0.668,0.094,0.858,edu_level
+bachelors,2670,0.409,0.479,0.872,0.208,0.825,edu_level
+postgraduate,1373,0.597,0.689,0.918,0.35,0.81,edu_level
+Female,5421,0.109,0.091,0.62,0.027,0.935,sex
+Male,10860,0.3,0.303,0.73,0.12,0.835,sex
+Amer-Indian-Eskimo,159,0.119,0.094,0.632,0.021,0.937,race
+Asian-Pac-Islander,480,0.277,0.296,0.737,0.127,0.835,race
+Black,1561,0.115,0.099,0.62,0.031,0.929,race
+Other,135,0.185,0.126,0.64,0.009,0.926,race
+White,13946,0.25,0.248,0.718,0.091,0.861,race
