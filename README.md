@@ -6,7 +6,7 @@ Machine Learning module – Summative project
 | Resource | Link |
 |---|---|
 | Report (PDF) | submitted on the course portal |
-| Google Drive (raw dataset + saved models) | *add link* |
+| Google Drive (raw dataset + saved models) | https://drive.google.com/drive/folders/1Dwj6C58Upg0VvkiCyf52xxUsFV16qwTs?usp=sharing |
 | Video presentation | *add link* |
 
 ## Problem and mission
